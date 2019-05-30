@@ -1,0 +1,43 @@
+body {
+  background-color: #89cff0;
+}
+
+h2, h5{
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h3 {
+  color: #FFFFFF;
+  margin-top:25px;
+}
+
+.intro {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.cow1 {
+  float:left;
+  width:70px;
+}
+
+.cow2 {
+  float:right;
+  width:70px;
+  margin-right: 20px;
+}
+
+.coin {
+  width:30px;
+  float: left;
+  margin-right: 5px;
+}
+
+.milk {
+  width: 40px;
+  display: block;
+  margin: 0 auto;
+}
+
+
